@@ -2,7 +2,7 @@
 
 ## Como usar?
 
-É bem simples até, você aperta no "MewgenicsClassRando.exe" e ele irá te passar a classe que ele escolheu. Outra funcionalidade também é, se você abrir o arquivo "contadorClasses.sav" você poderá ver um contador que mostra quantes vezes aquela classe foi sorteada pelo código.
+É bem simples, você aperta no "MewgenicsClassRando.exe" e ele irá te passar a classe que ele escolheu. Outra funcionalidade também é, se você abrir o arquivo "contadorClasses.sav" você poderá ver um contador que mostra quantes vezes aquela classe foi sorteada pelo código.
 
 ### Como este código está funcionando?
 

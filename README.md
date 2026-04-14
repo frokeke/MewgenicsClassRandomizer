@@ -1,1 +1,4 @@
 # MewgenicsClassRandomizer
+
+## Como isso funciona?
+
